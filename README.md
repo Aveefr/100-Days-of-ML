@@ -1,8 +1,4 @@
-Sure! Here's a template for your README file that includes a description of the repository, credits to Krish Naik, and other useful information. Feel free to customize it as needed.
-
----
-
-# 100 Days of Machine Learning - Practice Files
+# 100 Days of Machine Learning 
 
 Welcome to my **100 Days of Machine Learning** repository! This repository contains all my practice files and notes as I follow along with Krish Naik's "100 Days of ML" playlist on YouTube. The goal of this repository is to document my learning journey and provide useful resources for anyone else who is also following this playlist or looking to learn machine learning.
 
@@ -17,7 +13,6 @@ You can find the playlist [here](https://www.youtube.com/playlist?list=PLZoTAELR
 This repository is organized by days, each corresponding to a video from the playlist. Each folder contains:
 - **Notebook files** (`.ipynb`): Jupyter notebooks with code and explanations.
 - **Data files**: Any datasets used in the exercises.
-- **Scripts** (`.py`): Python scripts for various tasks.
 - **Notes**: My personal notes and summaries of the concepts covered.
 
 ## How to Use This Repository
@@ -51,5 +46,3 @@ If you find any errors or have suggestions for improvements, feel free to create
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-By including this README file in your repository, you not only give credit to Krish Naik but also provide a clear and helpful guide for anyone who might use or contribute to your project.
