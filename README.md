@@ -34,7 +34,7 @@ This repository is organized by days, each corresponding to a video from the pla
 
 A huge thanks to **Nitish Singh** for creating the "100 Days of ML" playlist and making machine learning accessible to everyone. You can follow his work and learn more about him at:
 - **YouTube**: [CampusX](https://www.youtube.com/@campusx-official)
-- **LinkedIn**: [CampusX](in.linkedin.com/company/campusx-official)
+- **LinkedIn**: [CampusX](https://www.linkedin.com/company/campusx-official/)
 - **GitHub**: [CampusX](github.com/campusx-official)
 
 ## Contributing
